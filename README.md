@@ -4,7 +4,9 @@ This repository contains my solutions and practice files for Data Structures and
 <br />
 <br />
 <hr />
+
 ![Striver's DSA Playlist](https://i.ytimg.com/vi/EAR7De6Goz4/maxresdefault.jpg)
+
 ## About
 
 Striver's playlist is a comprehensive collection of DSA topics and problems designed to strengthen problem-solving skills using C++.  
