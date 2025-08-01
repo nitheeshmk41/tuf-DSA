@@ -2,6 +2,8 @@
 
 This repository contains my solutions and practice files for Data Structures and Algorithms (DSA) problems following the popular **Striver's DSA Playlist** on YouTube.
 <br />
+<br />
+<hr />
 ![Striver's DSA Playlist](https://i.ytimg.com/vi/EAR7De6Goz4/maxresdefault.jpg)
 ## About
 
