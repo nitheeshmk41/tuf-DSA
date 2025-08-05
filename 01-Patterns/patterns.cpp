@@ -104,7 +104,7 @@ void pattern10(int n){
 
 // Diamond
 void pattern11(int n){
-
+    
 }
 
 int main(){
